@@ -76,6 +76,13 @@ namespace SportStore.Models
                     Description = "Gold-plated, diamond-studded King",
                     Category = "Chess",
                     Price = 1200
+                },
+                new Product
+                {
+                    Name = "Test",
+                    Description = "Test",
+                    Category = "Test",
+                    Price = 1500
                 }
                 );
                 context.SaveChanges();
