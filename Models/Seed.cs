@@ -58,7 +58,7 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Unsteady Chair",
+                    Name = "Shit fix",
                     Description = "Secretly give your opponent a disadvantage",
                     Category = "Chess",
                     Price = 29.95m
