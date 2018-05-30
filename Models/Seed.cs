@@ -79,10 +79,10 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Test",
-                    Description = "Test",
-                    Category = "Test",
-                    Price = 1500
+                    Name = "Test 2",
+                    Description = "Test 2",
+                    Category = "Test 2",
+                    Price = 1900
                 }
                 );
                 context.SaveChanges();
