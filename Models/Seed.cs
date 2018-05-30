@@ -65,7 +65,7 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Human Chess Board",
+                    Name = "Human Chess Board 2222",
                     Description = "A fun game for the family",
                     Category = "Chess",
                     Price = 75
