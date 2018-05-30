@@ -79,9 +79,9 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Test 4",
-                    Description = "Test 4",
-                    Category = "Test 4",
+                    Name = "Test 5",
+                    Description = "Test 5",
+                    Category = "Test 5",
                     Price = 1900
                 }
                 );
