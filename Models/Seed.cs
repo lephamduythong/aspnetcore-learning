@@ -16,7 +16,7 @@ namespace SportStore.Models
                 context.Products.AddRange(
                 new Product
                 {
-                    Name = "Kayak",
+                    Name = "Kayak fix more",
                     Description = "A boat for one person",
                     Category = "Watersports",
                     Price = 275
