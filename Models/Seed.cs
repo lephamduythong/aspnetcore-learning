@@ -37,9 +37,9 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Corner Flags",
-                    Description = "Give your playing field a professional touch",
-                    Category = "Soccer",
+                    Name = "Corner Flags 2",
+                    Description = "Give your playing field a professional touch 2",
+                    Category = "Soccer 2",
                     Price = 34.95m
                 },
                 new Product
