@@ -23,7 +23,7 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Lifejacket",
+                    Name = "Lifejacket 222",
                     Description = "Protective and fashionable",
                     Category = "Watersports",
                     Price = 48.95m
