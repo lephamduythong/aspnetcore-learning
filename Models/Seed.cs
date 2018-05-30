@@ -44,7 +44,7 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-                    Name = "Stadium",
+                    Name = "Á đù",
                     Description = "Flat-packed 35,000-seat stadium",
                     Category = "Soccer",
                     Price = 79500
