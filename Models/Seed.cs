@@ -16,11 +16,7 @@ namespace SportStore.Models
                 context.Products.AddRange(
                 new Product
                 {
-<<<<<<< HEAD
-                    Name = "Kayak fix more",
-=======
                     Name = "Kayak",
->>>>>>> d7556cd... Init: complete chapter 8
                     Description = "A boat for one person",
                     Category = "Watersports",
                     Price = 275
@@ -41,24 +37,14 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-<<<<<<< HEAD
-                    Name = "Corner Flags 2",
-                    Description = "Give your playing field a professional touch 2",
-                    Category = "Soccer 2",
-=======
                     Name = "Corner Flags",
                     Description = "Give your playing field a professional touch",
                     Category = "Soccer",
->>>>>>> d7556cd... Init: complete chapter 8
                     Price = 34.95m
                 },
                 new Product
                 {
-<<<<<<< HEAD
-                    Name = "Á đù",
-=======
                     Name = "Stadium",
->>>>>>> d7556cd... Init: complete chapter 8
                     Description = "Flat-packed 35,000-seat stadium",
                     Category = "Soccer",
                     Price = 79500
@@ -79,11 +65,7 @@ namespace SportStore.Models
                 },
                 new Product
                 {
-<<<<<<< HEAD
-                    Name = "Human Chess Board 2222",
-=======
                     Name = "Human Chess Board",
->>>>>>> d7556cd... Init: complete chapter 8
                     Description = "A fun game for the family",
                     Category = "Chess",
                     Price = 75

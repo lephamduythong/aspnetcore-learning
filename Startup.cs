@@ -42,16 +42,7 @@ namespace SportStore
             app.UseStaticFiles();
             app.UseMvc(routes =>
             {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=product}/{action=list}/{id?}"
-                );
-
-                routes.MapRoute(
-                    name: "pagination",
-                    template: "products/page{productPage}",
-                    defaults: new { Controller = "Product", action = "List" }
-                );
+                new RoutesTemplate(routes);
             });
             SeedData.EnsurePopulated(app);
         }
